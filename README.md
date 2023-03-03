@@ -23,4 +23,5 @@ Higlhlights:
   
 Kaggle competition link: https://www.kaggle.com/code/anandaramg/superstore-unsupervised-clustering-99-accuracy
 
-Note: Getting 99% accuracy in unsupervised learning is rare and hence unsupervised learning doesn't contain label and proper output. So it's hard for the algorithm to predit the data, anything higher than 60% are considered as good accuracy in unsupervised/clustering.
+## Note:
+_Getting 99% accuracy in unsupervised learning is rare and hence unsupervised learning doesn't contain label and proper output. So it's hard for the algorithm to predit the data, anything higher than 60% are considered as good accuracy in unsupervised/clustering._
