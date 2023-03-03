@@ -20,7 +20,7 @@ Higlhlights:
   
   * Each stage are well explained
   * Got 99% accuracy in Unsupervised Learning
-  * comparison of each algorithm and their accuracy
+  * Comparison of each algorithm and their accuracy
   
 Kaggle competition link: https://www.kaggle.com/code/anandaramg/superstore-unsupervised-clustering-99-accuracy
 
