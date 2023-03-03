@@ -1,0 +1,5 @@
+Algorithm,Accuracy
+KMean_PCA,53.67909931
+KMean,60.23305073
+Hierarchical - Agglomerative,64.31999011
+DBScan,99.07063066
